@@ -8,7 +8,7 @@ function Connect(): PDO
 
     $host = "localhost"; 
 
-    $db   = "parado"; 
+    $db   = "db_sample"; 
 
     $user = "root"; 
 
